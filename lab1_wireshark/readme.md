@@ -1,7 +1,7 @@
 # Lab1 Wireshark
 
 ## Evidence rules
-- Screenshot names: stepNN_shortname_YYMMDD_HHMM.png (Asia/Riyadh).
+- Screenshot names: stepNN_shortname_YYMMDD_HHMM.png.
 - One commit per step: "stepNN: <short action>".
 - Weekly push before Friday 23:59.
 ## Tasks snapshot
