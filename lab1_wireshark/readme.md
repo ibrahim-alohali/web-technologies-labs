@@ -14,3 +14,5 @@ Termination
 - FIN,ACK S→C pkt 3087 → ACK C→S pkt 3088.
 
 Screenshots: see `/lab1_wireshark/screenshots/` (step01/step04/step06).
+
+UDP/DNS: neverssl.com → 34.223.124.45 (ID 0x2b02, 52938→53, standard query/response).
