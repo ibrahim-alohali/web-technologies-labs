@@ -1,9 +1,5 @@
 # Lab1 Wireshark
 
-## Evidence rules
-- Screenshot names: stepNN_shortname_YYMMDD_HHMM.png (Asia/Riyadh).
-- One commit per step: `stepNN: <short action>`.
-- Upload weekly before Friday 23:59【turn2file3†L62-L64】.
 
 ## Tasks snapshot
 - Part1 HTTP capture and filter (neverssl.com)【turn2file5†L38-L59】.
